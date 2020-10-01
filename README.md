@@ -1,7 +1,7 @@
 # gocraft/web [![GoDoc](https://godoc.org/github.com/gocraft/web?status.png)](https://godoc.org/github.com/gocraft/web)
 
 
-gocraft/web is a Go mux and middleware package. We deal with casting and reflection so YOUR code can be statically typed. And we're fast.
+gocraft/web is a Go mux and middleware package. We deal with casting and reflection so your code can be statically typed. And we're fast.
 
 ## Getting Started
 From your GOPATH:
